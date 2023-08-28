@@ -1,4 +1,6 @@
 # SSL Labs Screenshot
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmarksowell%2Fssl-labs-screenshot-js.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmarksowell%2Fssl-labs-screenshot-js?ref=badge_shield)
+
 
 Capture a trimmed screenshot of the SSL Labs report for a given domain.
 
@@ -65,3 +67,5 @@ For any issues, feedback, or suggestions, please [open a new issue](https://gith
 ## License
 
 The scripts and documentation in this project are released under the [MIT License](https://github.com/marksowell/ssl-labs-screenshot-js/blob/main/LICENSE)
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmarksowell%2Fssl-labs-screenshot-js.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmarksowell%2Fssl-labs-screenshot-js?ref=badge_large)
